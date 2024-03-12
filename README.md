@@ -162,7 +162,7 @@ Para establecer relaciones entre dos tablas, es necesario definir una clave for�
 
 
 
-S<img align="center" src="/img/2ºimagenn.PNG"  />
+S<img align="center" src="/img/2ºimagenn.png.PNG"  />
 
 ### Gestores de bases de datos relacionales o *Data Base Managenent System (DBMS)*
 
