@@ -160,9 +160,9 @@ Para establecer relaciones entre dos tablas, es necesario definir una clave for�
   - Es una columna que contiene el valor de la clave primaria de un registro en otra tabla.
   - Establece la "relación" entre dos registros.
 
-<img align="center" src="/img/2ºimagenn.PNG"  />
 
 
+S<img align="center" src="/img/2ºimagenn.PNG"  />
 
 ### Gestores de bases de datos relacionales o *Data Base Managenent System (DBMS)*
 
